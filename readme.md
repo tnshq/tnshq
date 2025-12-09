@@ -36,8 +36,8 @@ I'm a developer passionate about **Artificial Intelligence**, **Machine Learning
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/tnshq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tnshq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnshq&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tnshq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tnshq&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
