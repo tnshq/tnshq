@@ -7,8 +7,7 @@
 ### 🚀 About Me
 I'm a developer passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I love building tools that leverage Generative AI and Computer Vision to solve real-world problems.
 
-🌱 **Currently exploring:** RAG (Retrieval-Augmented Generation) & PyTorch  
-🔭 **Working on:** AI Teaching Assistants & Super-Resolution Models  
+
 💻 **Love to code in:** Python
 
 </div>
