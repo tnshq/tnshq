@@ -29,6 +29,8 @@ I'm a developer passionate about **Artificial Intelligence**, **Machine Learning
 | 🖼️ **[ESRGAN Super-Resolution](https://github.com/tnshq/ESRGAN)** | An implementation of Enhanced Super-Resolution GANs to upscale low-res images using PyTorch. | PyTorch, GANs, CV |
 | 📊 **[Social Media Analytics](https://github.com/tnshq/Social_Media_Analytics_Dashboard)** | Interactive Streamlit dashboard for analyzing viral social media trends and metrics. | Python, Streamlit, Data Viz |
 | 🗣️ **[Sign Language to Text/Speech](https://github.com/tnshq/Sign-Language-To-Text-and-Speech-Conversion)** | A system to convert American Sign Language gestures into text and audible speech. | Python, OpenCV, Tensorflow |
+| 📈 **[Customer Churn Predictions](https://github.com/tnshq/customer_churn_predictions)** | Machine learning project to predict customer churn using predictive analytics. | Python, Jupyter, ML |
+| 🌐 **[Personal Portfolio](https://github.com/tnshq/tnshq.github.io)** | My personal portfolio website showcasing projects and skills. | HTML, CSS, Web Dev |
 
 ---
 
